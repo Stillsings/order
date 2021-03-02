@@ -3,7 +3,7 @@
 
 * 采用Java语言完成
 
-* 采用Restful设计风格，基于SpringBoot、SpringMVC、Spring、Spring data jdbc、
+* 采用RESTful设计风格，基于SpringBoot、Spring、Spring data jdbc、
 Swagger，数据库采用嵌入式H2数据库
 
 * 运行所需环境：jdk8以上环境
