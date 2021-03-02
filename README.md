@@ -6,7 +6,7 @@
 * 采用Restful设计风格，基于SpringBoot、SpringMVC、Spring、Spring data jdbc、
 Swagger，数据库采用嵌入式H2数据库
 
-* 运行所需环境：jdk环境
+* 运行所需环境：jdk8以上环境
 
 ## 完成点
 * 模拟数据源（已完成）
