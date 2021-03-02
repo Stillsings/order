@@ -1,0 +1,10 @@
+DROP TABLE orders IF EXISTS;
+CREATE TABLE orders(
+  order_id INTEGER PRIMARY KEY,
+  order_time INTEGER NOT NULL,
+  sku_id INTEGER NOT NULL,
+  user_id INTEGER NOT NULL,
+  status INTEGER NOT NULL,
+  price DOUBLE NOT NULL,
+  pay DOUBLE NOT NULL
+);
