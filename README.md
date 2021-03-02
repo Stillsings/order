@@ -77,4 +77,4 @@ chrome测试结果
 可通过Swagger访问API
 http://localhost:8080/swagger-ui.html
 
-[image](https://github.com/Stillsings/order/blob/master/public/swagger.png)
+![image](https://github.com/Stillsings/order/blob/master/public/swagger.png)
